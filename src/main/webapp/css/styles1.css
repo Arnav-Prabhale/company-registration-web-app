@@ -1,0 +1,52 @@
+.t1{
+	-webkit-border-horizontal-spacing: 0px;
+    -webkit-border-vertical-spacing: 0px;
+    margin: 0px;
+    width: 100%;
+}
+.country_name{
+	margin:5px; 
+	padding:5px;
+}
+
+.input{
+	padding:5px; 
+	margin:5px;
+}
+
+ .rb1{
+ 	margin-left:15px;
+ }
+
+.company_description{
+	background: snow;
+}
+
+.address_div{
+	background: whitesmoke;
+}
+
+.second_column{
+	    padding-left: 4rem;
+	    padding-right: 4rem;
+	    text-align: right;
+}
+select, option {
+    width: 150px;
+}
+
+.navigation-button{
+	padding:0.4rem;
+	border-radius: 4px;
+	font-size: 12px;
+	background-color: #0775d3;
+	border: 1px solid #0775d3;
+	transition-duration: 0.4s;
+}
+
+.navigation-button:hover{
+	background-color: white; 
+  	color: #0775d3;
+}
+
+
